@@ -8,7 +8,7 @@
 
 <h4> Contact Me:- </h4>
 <p align="center">
-  <a href="mailto:utkarsh.ankit09@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="./gmail.gif" height="80px" width="80px" alt="Gmail" ></a>
+  <a href="mailto:utkarsh.ankit09@gmail.com"><img src="./gmail.gif" height="80px" width="80px" alt="Gmail" ></a>
 </p> 
 
 <h4> Where to find me:- </h4> 

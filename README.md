@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="mailto:utkarsh.ankit09@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="./assets/gmail.svg" height="80px" width="80px" alt="Gmail" ></a>
   <a href="https://www.linkedin.com/in/utkarsh-ankit-802171181/"><img src="./assets/linkedIn.svg" height="80px" width="80px" alt="LinkedIn"></a>
+  <a href="https://twitter.com/UttsPutts"><img src="./twitter.gif" height="80px" width="80px" alt="LinkedIn"></a>
 </p>

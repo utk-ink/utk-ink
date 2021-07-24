@@ -3,7 +3,7 @@
 </p>
 
 - :v: Hola!!!, Welcome to my GitHub. I’m **Utkarsh Ankit**.
-- :robot: I’m a Data Scientist and have a deep interest in Artificial Intelligence and Computer Vision works.
+- :bulb: I’m a Data Scientist and have a deep interest in Artificial Intelligence and Computer Vision works.
 - :rocket: Former ISRO and IIT Research Intern.
 - :black_nib: I’m a blogger too, you can find my blogs [here](https://medium.com/@utkarsh.ankit09).
 

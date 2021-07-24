@@ -8,3 +8,8 @@
 utk-ink/utk-ink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h4> Where to find me </h4> 
+<p align="center">
+  <a href="mailto:utkarsh.ankit09@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="./assets/gmail.svg" height="80px" width="80px" alt="Gmail" ></a>
+  <a href="https://www.linkedin.com/in/utkarsh-ankit-802171181/"><img src="./assets/linkedIn.svg" height="80px" width="80px" alt="LinkedIn"></a>
+</p>

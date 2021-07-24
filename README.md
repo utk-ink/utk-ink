@@ -2,10 +2,10 @@
   <a href="https://github.com/utk-ink"><img src="./github.gif" height="80px" width="80px" alt="GitHub"></a>
 </p>
 
-- 👋 Hola!!!, Welcome to my GitHub. I’m **Utkarsh Ankit**.
-- 👀 I’m a Data Scientist and have a deep interest in Artificial Intelligence and Computer Vision works.
-- Former ISRO and IIT Research Intern.
-- 🌱 I’m a blogger too, you can find my blogs [here](https://medium.com/@utkarsh.ankit09).
+- :v: Hola!!!, Welcome to my GitHub. I’m **Utkarsh Ankit**.
+- :robot: I’m a Data Scientist and have a deep interest in Artificial Intelligence and Computer Vision works.
+- :rocket: Former ISRO and IIT Research Intern.
+- :black_nib: I’m a blogger too, you can find my blogs [here](https://medium.com/@utkarsh.ankit09).
 
 <h4> Contact Me:- </h4>
 <p align="center">

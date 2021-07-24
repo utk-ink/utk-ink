@@ -4,6 +4,7 @@
 
 - 👋 Hola!!!, Welcome to my GitHub. I’m **Utkarsh Ankit**.
 - 👀 I’m a Data Scientist and have a deep interest in Artificial Intelligence and Computer Vision works.
+- Former ISRO and IIT Research Intern.
 - 🌱 I’m a blogger too, you can find my blogs [here](https://medium.com/@utkarsh.ankit09).
 
 <h4> Contact Me:- </h4>

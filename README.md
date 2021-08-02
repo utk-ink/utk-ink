@@ -5,7 +5,7 @@
 - :v: Hola!!!, Welcome to my GitHub. I’m **Utkarsh Ankit**.
 - :bulb: I’m a Data Scientist and have a deep interest in Artificial Intelligence and Computer Vision works.
 - :rocket: Former ISRO and IIT Research Intern.
-- :black_nib: I’m a blogger too, you can find my blogs [here](https://medium.com/@utkarsh.ankit09).
+- :black_nib: I’m a blogger too, you can find my blogs [here](https://medium.com/@utkarsh_ankit).
 
 <h4> Contact Me:- </h4>
 <p align="center">

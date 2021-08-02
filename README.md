@@ -17,7 +17,7 @@
   <a href="https://stackoverflow.com/users/9935075/utkarsh-ankit"><img src="./stackoverflow.gif" height="80px" width="80px" alt="Stack Overflow"></a>
   <a href="https://www.linkedin.com/in/utkarsh-ankit-802171181/"><img src="./linkedin.gif" height="80px" width="80px" alt="LinkedIn"></a>
   <a href="https://twitter.com/UttsPutts"><img src="./twitter.gif" height="80px" width="80px" alt="Twitter"></a>
-  <a href="https://medium.com/@utkarsh.ankit09"><img src="./medium.gif" height="80px" width="80px" alt="Medium"></a>
+  <a href="https://medium.com/@utkarsh_ankit"><img src="./medium.gif" height="80px" width="80px" alt="Medium"></a>
   <a href="https://www.kaggle.com/utkarshankit"><img src="./kaggle.png" height="80px" width="80px" alt="Kaggle"></a>
 </p>
 
